@@ -1,5 +1,5 @@
 # Infinity Cafes Project
-Data pipeline hosted on the cloud that extracts, transforms and loads live data into an Amazon RDS MySQL database. Grafana connected with database using EC2 to produce a dashboard that the client can use for data analytics and business intelligence.
+Data pipeline hosted on the cloud that extracts, transforms and loads live data into an Amazon RDS MySQL database. Grafana connected with database using EC2 to produce a dashboard that the client can use for data analytics and business intelligence.</br>
 Technologies used: AWS S3, Lambda (Python used for ETL code), RDS, EC2, CloudWatch, Docker, Grafana
 
 ### Project Architecture
